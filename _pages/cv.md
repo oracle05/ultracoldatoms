@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Team members
 ======
-Dr. Antonio Munoz Mateo
+Dr. Antonio Muñoz Mateo
 
 Dr. Haibo Qiu
 
