@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Team"
-permalink: /Team/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
