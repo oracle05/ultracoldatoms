@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Joint research group"
   avatar           : "profile1.png"
-  bio              : "Dr. Antonio Munoz Mateo // Dr. Haibo Qiu"
+  bio              : "Dr. Antonio Muñoz Mateo // Dr. Haibo Qiu"
   location         : "Teneriffe & Xi'an"
   employer         :
   pubmed           : \
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Haibo-Qiu-2"
+  researchgate     : "https://www.researchgate.net/profile/Haibo-Qiu-2"
   uri              :
   bitbucket        :
   codepen          :
