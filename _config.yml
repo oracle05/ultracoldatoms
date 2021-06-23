@@ -84,11 +84,12 @@ author:
   avatar           : "profile1.png"
   bio              : "Dr. Antonio Muñoz Mateo // Dr. Haibo Qiu"
   location         : "Teneriffe & Xi'an"
-  employer         :
-  pubmed           : \
-  googlescholar    : ""
-  email            :
+  orcid            : "https://orcid.org/0000-0003-4689-1649"
   researchgate     : "https://www.researchgate.net/profile/Haibo-Qiu-2"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +97,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
