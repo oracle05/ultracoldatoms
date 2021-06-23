@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,13 @@ redirect_from:
 Team members
 ======
 Dr. Antonio Munoz Mateo
+
 Dr. Haibo Qiu
+
 Dengling Zhang
+
 Qian Jia
+
 Min Xu
 
 Publications
