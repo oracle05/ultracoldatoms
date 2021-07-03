@@ -8,29 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
-Team members
+Team leaders
 ======
 Dr. Antonio Muñoz Mateo
 
 Dr. Haibo Qiu
 
-Dengling Zhang
 
+Graduate students
+======
 Qian Jia
 
 Min Xu
 
-Publications
+
+Undergraduate students
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+
+Former members
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
+Dengling Zhang
 
