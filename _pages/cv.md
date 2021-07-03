@@ -22,10 +22,6 @@ Qian Jia
 Min Xu
 
 
-Undergraduate students
-======
-
-
 Former members
 ======
 Dengling Zhang
