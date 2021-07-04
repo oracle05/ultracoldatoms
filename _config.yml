@@ -246,6 +246,12 @@ defaults:
       author_profile: true
       share: true
 
+###Added July2021
+header:
+  image: /assets/images/header_image1.jpeg
+
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
