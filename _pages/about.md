@@ -1,8 +1,11 @@
 ---
 permalink: /
-title: "About us"
-excerpt: "About us"
 author_profile: true
+#title: "Joint Reseach Group"
+excerpt: "Dr. Antonio Muñoz@ Dr. Haibo Qiu"
+header:
+  overlay_image: header_image2.jpeg
+  overlay_filter: rgba(0, 195, 215, 0.5)
 redirect_from: 
   - /about/
   - /about.html
