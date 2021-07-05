@@ -24,5 +24,5 @@ Min Xu
 
 Former members
 ======
-Dengling Zhang
+Dengling Zhang（Master in 2021， China Telecom@Lanzhou）
 
