@@ -22,7 +22,7 @@ Qian Jia
 Min Xu
 
 
-Former members
+Former students
 ======
 Dengling Zhang（Master in 2021， China Telecom@Lanzhou）
 
