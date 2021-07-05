@@ -3,8 +3,6 @@ permalink: /
 title: "About us"
 excerpt: "About us"
 author_profile: true
-header:
-  image: /assets/images/header_image1.jpeg
 redirect_from: 
   - /about/
   - /about.html
