@@ -19,7 +19,7 @@ Graduate students
 ======
 Qian Jia
 
-Min Xu
+Jintao Xu
 
 
 Former students
