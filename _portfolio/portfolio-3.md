@@ -1,4 +1,3 @@
-
 ---
 title: "Journal club on vortex"
 date: 2022-7-12
