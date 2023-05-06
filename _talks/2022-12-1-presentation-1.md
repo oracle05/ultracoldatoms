@@ -1,4 +1,3 @@
-
 ---
 title: "Soliton collisions in Bose-Einstein condensates with current-dependent interactions"
 collection: poster
