@@ -17,12 +17,13 @@ Dr. Haibo Qiu
 
 Graduate students
 ======
-Qian Jia
-
 Jintao Xu
 
+Shuji Jia
 
 Former students
 ======
+Qian Jia（Master in 2023， Company@Xi'an）
+
 Dengling Zhang（Master in 2021， China Telecom@Lanzhou）
 
