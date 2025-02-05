@@ -10,7 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-We are researchers working on ultracold atoms. Antonio Muñoz Mateo is an independent researcher living in teneriffe, Spain, and Haibo Qiu lives in Xi'an, China, working in Xi'an university of posts & telecommunications as an associate professor. Now we are co-supervising three graduate students. The primary goal for us is to drive for excellence and to have fun!
+We are researchers working on ultracold atoms. Antonio Muñoz Mateo is an independent researcher living in teneriffe, Spain, and Haibo Qiu lives in Xi'an, China, working in Xi'an university of posts & telecommunications as an associate professor. Now we are co-supervising graduate students. The primary goal for us is to drive for excellence and to have fun!
 
 
 Our interests
