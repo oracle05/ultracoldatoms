@@ -17,10 +17,12 @@ Dr. Haibo Qiu
 
 Graduate students
 ======
-Shuji Jia
+
 
 Former students
 ======
+Shuji Jia（Master in 2025， Inner Mongolia Shortwave Emission Center@Hohhot）
+
 Jintao Xu（Master in 2024， ZTE@Hohhot）
 
 Qian Jia（Master in 2023， Company@Xi'an）
